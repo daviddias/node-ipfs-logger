@@ -11,7 +11,7 @@
     "IPFS"
   ],
   "pre-commit": [
-
+    "codestyle"
   ],
   "author": "David Dias <daviddias@ipfs.io>",
   "license": "MIT",
