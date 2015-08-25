@@ -4,7 +4,7 @@
   "description": "IPFS logging module (wrapper of bunyan) for the Node.js implementation of IPFS",
   "main": "src/index.js",
   "scripts": {
-    "codestyle": "standard --format",
+    "codestyle": "./node_modules/.bin/standard --format",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
